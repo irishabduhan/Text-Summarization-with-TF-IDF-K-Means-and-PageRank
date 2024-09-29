@@ -1,7 +1,3 @@
-Here's a detailed README template for your text summarization project:
-
----
-
 # Text Summarization Using TF-IDF, PageRank, MMR, and K-Means Clustering
 
 ## Table of Contents
